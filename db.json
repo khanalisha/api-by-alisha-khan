@@ -1,0 +1,304 @@
+{
+    "hotels": [
+        {
+            " id": "1",
+            "name": "Ambika Vilas, Trivandrum, ama Stays & Trails",
+            "location": "Thiruvananthapuram",
+            "price": 25000,
+            "description": "Revel in the living heritage, Ambika Vilas, and live the authentic Kerela life in the calm courtyards and cool verandas.",
+            "category": "Vilas",
+            "image": "https://r1imghtlak.mmtcdn.com/66c3efee862511ea873e0242ac110003.png?&output-quality=75&downsize=910:612&crop=910:612;58,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.5
+        },
+        {
+            " id": "2",
+            "name": "Sluice House, Lonavala, ama Stays & Trails",
+            "location": "Lonavala",
+            "price": 40000,
+            "description": "Soak in gorgeous views of gardens in a sun-filled yard with a view of nature's best and dine under the stars treading a basket full of cherishable memories.",
+            "category": "Vilas",
+            "image": "https://r1imghtlak.mmtcdn.com/dea19356f08911ecb51e0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,149&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.5
+        },
+        {
+            " id": "3",
+            "name": "Rose Amer",
+            "location": "Jaipur",
+            "price": 19805,
+            "description": "Relive the rich cultural heritage at this 6-suite villa featuring a plush pool, block painting and pottery-making workshops, and a restaurant serving authentic Rajasthani cuisine.",
+            "category": "Vilas",
+            "image": "https://r1imghtlak.mmtcdn.com/9d2c73b646e611ecb7d20a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.4
+        },
+        {
+            " id": "4",
+            "name": "StayVista | La Bougainvillea 5 BHK Villa",
+            "location": "Goa",
+            "price": 29408,
+            "description": "Located in Torda Goa, La Bougainvillea offers homely accommodations away from crowded beaches but within easy reach of Mandovi River and its casino ships.",
+            "category": "Vilas",
+            "image": "https://r1imghtlak.mmtcdn.com/a0cecc72871911eba2e60242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.5
+        },
+        {
+            " id": "5",
+            "name": "Villa Siolim",
+            "location": " Goa",
+            "price": 14981,
+            "description": "Embrace the authentic Goan life and pamper yourself with a luxurious stay at the Pool Villa in Siolim that reflects Goan architecture.",
+            "category": "Vilas",
+            "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202004080632427962-b636fc1e74b511eaa5eb0242ac110005.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&out",
+            "rating": 4.5
+        },
+        {
+            " id": "6",
+            "name": "Le Meridien",
+            "location": "Goa",
+            "price": 8999,
+            "description": "Experience Goa's rich art and culture at this five-star property located steps away from famous beaches and markets. ",
+            "category": "Hotel",
+            "image": "https://r1imghtlak.mmtcdn.com/6f67aa72e97a11ec9ae10a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.5
+        },
+        {
+            " id": "7",
+            "name": "JW Marriott Hotel Kolkata",
+            "location": "Kolkata",
+            "price": 9800,
+            "description": "A 5-star hotel, JW Marriott is known for its warm hospitality, opulent amenities, luxe rooms and premium dining.",
+            "category": "Hotel",
+            "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201611091231415689-170fc18c14d611eab5aa0242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;142,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.5
+        },
+        {
+            " id": "8",
+            "name": "Taj Bengal",
+            "location": "Kolkata",
+            "price": 9000,
+            "description": "A pet-friendly property located at the heart of the city offering private dining options and fun activities for kids.",
+            "category": "Hotel",
+            "image": "https://r1imghtlak.mmtcdn.com/c16f9b965a6211e8a7b20a9df65c8753.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.6
+        },
+        {
+            " id": "9",
+            "name": "Taj Coromandel",
+            "location": " Chennai",
+            "price": 11000,
+            "description": "Witness the blend of South Indian design and classic elegance at one of the finest 5-star resorts in Chennai. ",
+            "category": "Hotel",
+            "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200901081302057726-318c71f640d611e991a50242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;23,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.4
+        },
+        {
+            " id": "10",
+            "name": "Red Earth",
+            "location": "Chennai",
+            "price": 6000,
+            "description": "Tucked on the edges of the eluding Tadoba Andhari Tiger Reserve with mesmerizing views and luxurious facilities.",
+            "category": "Hotel",
+            "image": "https://r1imghtlak.mmtcdn.com/64e4493c236f11e8a52d025f77df004f.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.5
+        },
+        {
+            " id": "11",
+            "name": "Silver Sand Beach",
+            "location": "Goa",
+            "price": 12090,
+            "description": "Located by a stunning white sandy beach, the property boasts of luxe rooms, a multi-cuisine restaurant and a pub. ",
+            "category": "Resort",
+            "image": "https://r1imghtlak.mmtcdn.com/9c8e679c0f0c11eb9e8f0242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,35&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.3
+        },
+        {
+            " id": "12",
+            "name": "Radisson Blu Resort",
+            "location": "Visakhapatnam",
+            "price": 8499,
+            "description": "Stay in a premium property located on the coastline and enjoy the best of the city and the serene beaches.",
+            "category": "Resort",
+            "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202106221857384539-e23119e66d3111ec83e90a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.3
+        },
+        {
+            " id": "13",
+            "name": "Caravela Beach Resort",
+            "location": " Goa",
+            "price": 8999,
+            "description": "Stay amid the soothing sound of waves crashing on the white sand beach right beside this scenic abode.",
+            "category": "Resort",
+            "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200703241029455940-f0051170d56c11e599ba001ec9b85d13.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,9&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.6
+        },
+        {
+            " id": "14",
+            "name": "Hilton Goa Resort",
+            "location": "Goa",
+            "price": 9000,
+            "description": "Witness the scenic beauty at Hilton Goa, a hilltop resort overlooking lush greenery and the Nerul River. ",
+            "category": "Resort",
+            "image": "https://r1imghtlak.mmtcdn.com/3a09403cd39111ed86280a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.5
+        },
+        {
+            " id": "15",
+            "name": "Azaya Beach Resort",
+            "location": "Goa",
+            "price": 11200,
+            "description": "Experience luxury and tranquillity amid picturesque views of the sea in this Portuguese-inspired lavish abode.",
+            "category": "Resort",
+            "image": "https://r1imghtlak.mmtcdn.com/36f95db4f38b11ecb6730a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;13,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 5
+        },
+        {
+            " id": "16",
+            "name": "The Moonlight Chalet",
+            "location": "Alibaug",
+            "price": 10381,
+            "description": "As the name suggests, you get to enjoy the stars from your bed. You'll love this unique and romantic escape which offers a beautiful view of the Parvati valley right from your bed.",
+            "category": "Homestay",
+            "image": "https://r1imghtlak.mmtcdn.com/042c99a23a7911edb3280a58a9feac02.jfif?&output-quality=75&downsize=910:612&crop=910:612;24,0&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.3
+        },
+        {
+            " id": "17",
+            "name": "Elgin Hall ",
+            "location": "Alibaug",
+            "price": 8090,
+            "description": "Fancy a cup of tea with a relaxing stay? Book a stay at this boutique property that features luxe Victorian-inspired rooms and top leisure amenities.",
+            "category": "Homestay",
+            "image": "https://r1imghtlak.mmtcdn.com/d6080eca6d9411eab6b50242ac110006.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,13&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.3
+        },
+        {
+            " id": "18",
+            "name": "Lemon Tree Premier Delhi Airport",
+            "location": "Delhi Airport",
+            "price": 5075,
+            "description": "Red Fox Delhi Airport is a four-star hotel situated just three kilometres from the Indira Gandhi International Airport and offers guests an airport shuttle service.",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/24/71/2471899_v2.jpeg",
+            "rating": 5
+        },
+        {
+            " id": "19",
+            "name": "President",
+            "location": "Delhi",
+            "price": 12090,
+            "description": "Red Fox Delhi Airport is a four-star hotel situated just three kilometres from the Indira Gandhi International Airport and offers guests an airport shuttle service. Rooms are equipped with Wi-Fi connectivity, a mini-bar,",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_190,q_auto,w_240//partnerimages/48/30/483063376.jpeg",
+            "rating": 7.2
+        },
+        {
+            " id": "20",
+            "name": "Ramee Guestline Hotel Dadar",
+            "location": "Mumbai",
+            "price": 4420,
+            "description": "Be sure to enjoy recreational amenities, including an outdoor pool, a spa tub, and a sauna. Additional amenities at this hotel include complimentary wireless Internet access, wedding services, and a television in a common area",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_190,q_auto,w_240//partnerimages/73/01/730148940.jpeg",
+            "rating": 3.3
+        },
+        {
+            " id": "21",
+            "name": "Sofitel BKC",
+            "location": "Mumbai",
+            "price": 5500,
+            "description": "Be sure to enjoy recreational amenities, including an outdoor pool, a spa tub, and a sauna. Additional amenities at this hotel include complimentary wireless Internet access, wedding services, and a television in a common area.",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/19/11/1911037_v7.jpeg",
+            "rating": 5
+        },
+        {
+            " id": "22",
+            "name": "Sluice House, Lonavala, ama Stays & Trails",
+            "location": "Lonavala",
+            "price": 30000,
+            "description": "Soak in gorgeous views of gardens in a sun-filled yard with a view of nature's best and dine under the stars treading a basket full of cherishable memories.",
+            "category": "Vilas",
+            "image": "https://r1imghtlak.mmtcdn.com/dea19356f08911ecb51e0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,149&output-format=jpg&downsize=821:550&crop=821:550",
+            "rating": 4.5
+        },
+        {
+            " id": "23",
+            "name": "The Park New",
+            "location": "Delhi",
+            "price": 7279,
+            "description": "Located centrally in New Delhi, The Park New Delhi offers luxury 4-star accommodation in trendy Connaught Place. The room decor are a fusion of traditional and contemporary design.",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/if_iw_lte_ih,c_scale,w_236/if_else,c_scale,h_160/e_improve,q_auto:low/d_dummy.jpeg,f_auto,q_auto//partnerimages/12/31/1231742122.jpeg",
+            "rating": 7.4
+        },
+        {
+            " id": "24",
+            "name": "Hilton",
+            "location": "Bangalore ",
+            "price": 14750,
+            "description": "Make use of convenient amenities, which include complimentary wireless Internet access and concierge services.",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/21/62/2162610_v2.jpeg",
+            "rating": 7.8
+        },
+        {
+            " id": "25",
+            "name": "Treebo Trend Saga Comfort",
+            "location": "Bangalore",
+            "price": 963,
+            "description": "Treebo Trend Saga Comforts is an amazing choice for a comfortable stay in case you are visiting Bengaluru for work or leisure. Located in Rajaji Nagar area, the hotel offers 15 impressive rooms with great amenities and promises a pleasant stay to guests here ",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/50/10509252_v1.jpeg",
+            "rating": 5.4
+        },
+        {
+            " id": "26",
+            "name": "JP Cordial",
+            "location": "Bangalore",
+            "price": 2200,
+            "description": "JP Cordial is a contemporary, full service business hotel conveniently located in the heart of the financial and commercial district of Bengaluru on S C Road. The hotel is in close proximity to renowned corporate houses, information technology companies, public sector companies and banks.",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/14/24/1424011_v1.jpeg",
+            "rating": 7.9
+        },
+        {
+            " id": "27",
+            "name": "FabHotel Arafa Inn Gandhinagar",
+            "location": "Bangalore",
+            "price": 5000,
+            "description": "The COVID19 pandemic has made us all understand the importance of sanitisation and not take it for granted. Rest assured, our properties are following a number of safety measures like disinfecting surfaces with highquality disinfectant",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/22/16/2216204_v10.jpeg",
+            "rating": 7.4
+        },
+        {
+            " id": "28",
+            "name": "Greens Residency",
+            "location": "Delhi",
+            "price": 559,
+            "description": "Make use of convenient amenities, which include complimentary wireless Internet access and concierge services.Enjoy a meal at the restaurant, or stay in and take advantage of the hotel's 24-hour room service.",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/45/63/4563874.jpeg",
+            "rating": 7.4
+        },
+        {
+            " id": "29",
+            "name": "Elite Park",
+            "location": "Bangalore",
+            "price": 1100,
+            "description": "ELITE PARK Hotel is located on Bannerghatta Main Road, just a 20-minute drive from Central Bangalore. The hotel features finer accommodation with modern amenities. ",
+            "category": "Hotel",
+            "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_190,q_auto,w_240//uploadimages/35/85/35852448.jpeg",
+            "rating": 7.4
+        },
+        {
+            " id": "30",
+            "name": "DoubleTree Suites by Hilton ",
+            "location": " Bangalore",
+            "price": 12207,
+            "description": "Ideally located in the busy Commercial Business District of Sarjapur, DoubleTree Suites by Hilton Bangalore is an upscale five-star hotel offering a well-equipped fitness centre, a temperature-controlled rooftop swimming pool and spa facilities. ",
+            "category": "Vilas",
+            "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/25/29/2529777_v1.jpeg",
+            "rating": 7.4
+        }
+    ]
+}
