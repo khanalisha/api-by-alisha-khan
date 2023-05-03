@@ -1,7 +1,7 @@
 {
     "hotels": [
         {
-            " id": "1",
+            "id": "1",
             "name": "Ambika Vilas, Trivandrum, ama Stays & Trails",
             "location": "Thiruvananthapuram",
             "price": 25000,
@@ -11,7 +11,7 @@
             "rating": 4.5
         },
         {
-            " id": "2",
+            "id": "2",
             "name": "Sluice House, Lonavala, ama Stays & Trails",
             "location": "Lonavala",
             "price": 40000,
@@ -21,7 +21,7 @@
             "rating": 4.5
         },
         {
-            " id": "3",
+            "id": "3",
             "name": "Rose Amer",
             "location": "Jaipur",
             "price": 19805,
@@ -31,7 +31,7 @@
             "rating": 4.4
         },
         {
-            " id": "4",
+            "id": "4",
             "name": "StayVista | La Bougainvillea 5 BHK Villa",
             "location": "Goa",
             "price": 29408,
@@ -41,7 +41,7 @@
             "rating": 4.5
         },
         {
-            " id": "5",
+            "id": "5",
             "name": "Villa Siolim",
             "location": " Goa",
             "price": 14981,
@@ -51,7 +51,7 @@
             "rating": 4.5
         },
         {
-            " id": "6",
+            "id": "6",
             "name": "Le Meridien",
             "location": "Goa",
             "price": 8999,
@@ -61,7 +61,7 @@
             "rating": 4.5
         },
         {
-            " id": "7",
+            "id": "7",
             "name": "JW Marriott Hotel Kolkata",
             "location": "Kolkata",
             "price": 9800,
@@ -71,7 +71,7 @@
             "rating": 4.5
         },
         {
-            " id": "8",
+            "id": "8",
             "name": "Taj Bengal",
             "location": "Kolkata",
             "price": 9000,
@@ -81,7 +81,7 @@
             "rating": 4.6
         },
         {
-            " id": "9",
+            "id": "9",
             "name": "Taj Coromandel",
             "location": " Chennai",
             "price": 11000,
@@ -91,7 +91,7 @@
             "rating": 4.4
         },
         {
-            " id": "10",
+            "id": "10",
             "name": "Red Earth",
             "location": "Chennai",
             "price": 6000,
@@ -101,7 +101,7 @@
             "rating": 4.5
         },
         {
-            " id": "11",
+            "id": "11",
             "name": "Silver Sand Beach",
             "location": "Goa",
             "price": 12090,
@@ -111,7 +111,7 @@
             "rating": 4.3
         },
         {
-            " id": "12",
+            "id": "12",
             "name": "Radisson Blu Resort",
             "location": "Visakhapatnam",
             "price": 8499,
@@ -121,7 +121,7 @@
             "rating": 4.3
         },
         {
-            " id": "13",
+            "id": "13",
             "name": "Caravela Beach Resort",
             "location": " Goa",
             "price": 8999,
@@ -131,7 +131,7 @@
             "rating": 4.6
         },
         {
-            " id": "14",
+            "id": "14",
             "name": "Hilton Goa Resort",
             "location": "Goa",
             "price": 9000,
@@ -141,7 +141,7 @@
             "rating": 4.5
         },
         {
-            " id": "15",
+            "id": "15",
             "name": "Azaya Beach Resort",
             "location": "Goa",
             "price": 11200,
@@ -151,7 +151,7 @@
             "rating": 5
         },
         {
-            " id": "16",
+            "id": "16",
             "name": "The Moonlight Chalet",
             "location": "Alibaug",
             "price": 10381,
@@ -161,7 +161,7 @@
             "rating": 4.3
         },
         {
-            " id": "17",
+            "id": "17",
             "name": "Elgin Hall ",
             "location": "Alibaug",
             "price": 8090,
@@ -171,7 +171,7 @@
             "rating": 4.3
         },
         {
-            " id": "18",
+            "id": "18",
             "name": "Lemon Tree Premier Delhi Airport",
             "location": "Delhi Airport",
             "price": 5075,
@@ -181,7 +181,7 @@
             "rating": 5
         },
         {
-            " id": "19",
+            "id": "19",
             "name": "President",
             "location": "Delhi",
             "price": 12090,
@@ -191,7 +191,7 @@
             "rating": 7.2
         },
         {
-            " id": "20",
+            "id": "20",
             "name": "Ramee Guestline Hotel Dadar",
             "location": "Mumbai",
             "price": 4420,
@@ -201,7 +201,7 @@
             "rating": 3.3
         },
         {
-            " id": "21",
+            "id": "21",
             "name": "Sofitel BKC",
             "location": "Mumbai",
             "price": 5500,
@@ -211,7 +211,7 @@
             "rating": 5
         },
         {
-            " id": "22",
+            "id": "22",
             "name": "Sluice House, Lonavala, ama Stays & Trails",
             "location": "Lonavala",
             "price": 30000,
@@ -221,7 +221,7 @@
             "rating": 4.5
         },
         {
-            " id": "23",
+            "id": "23",
             "name": "The Park New",
             "location": "Delhi",
             "price": 7279,
@@ -231,7 +231,7 @@
             "rating": 7.4
         },
         {
-            " id": "24",
+            "id": "24",
             "name": "Hilton",
             "location": "Bangalore ",
             "price": 14750,
@@ -241,7 +241,7 @@
             "rating": 7.8
         },
         {
-            " id": "25",
+            "id": "25",
             "name": "Treebo Trend Saga Comfort",
             "location": "Bangalore",
             "price": 963,
@@ -251,7 +251,7 @@
             "rating": 5.4
         },
         {
-            " id": "26",
+            "id": "26",
             "name": "JP Cordial",
             "location": "Bangalore",
             "price": 2200,
@@ -261,7 +261,7 @@
             "rating": 7.9
         },
         {
-            " id": "27",
+            "id": "27",
             "name": "FabHotel Arafa Inn Gandhinagar",
             "location": "Bangalore",
             "price": 5000,
@@ -271,7 +271,7 @@
             "rating": 7.4
         },
         {
-            " id": "28",
+            "id": "28",
             "name": "Greens Residency",
             "location": "Delhi",
             "price": 559,
@@ -281,7 +281,7 @@
             "rating": 7.4
         },
         {
-            " id": "29",
+            "id": "29",
             "name": "Elite Park",
             "location": "Bangalore",
             "price": 1100,
@@ -291,7 +291,7 @@
             "rating": 7.4
         },
         {
-            " id": "30",
+            "id": "30",
             "name": "DoubleTree Suites by Hilton ",
             "location": " Bangalore",
             "price": 12207,
