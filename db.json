@@ -300,5 +300,323 @@
             "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/25/29/2529777_v1.jpeg",
             "rating": 7.4
         }
+    ],
+    "flight": [
+        {
+            "id": 1,
+            "flight_number": "AI101",
+            "airline": "Air India",
+            "from": "Delhi",
+            "to": "Mumbai",
+            "price": 5000,
+            "seats_available": 50,
+            "layovers": []
+        },
+        {
+            "id": 2,
+            "flight_number": "6E502",
+            "airline": "IndiGo",
+            "from": "Bangalore",
+            "to": "Hyderabad",
+            "price": 4000,
+            "seats_available": 80,
+            "layovers": []
+        },
+        {
+            "id": 3,
+            "flight_number": "SG298",
+            "airline": "SpiceJet",
+            "from": "Delhi",
+            "to": "Chennai",
+            "price": 5500,
+            "seats_available": 40,
+            "layovers": []
+        },
+        {
+            "id": 4,
+            "flight_number": "UK859",
+            "airline": "Vistara",
+            "from": "Mumbai",
+            "to": "Ahmedabad",
+            "price": 4500,
+            "seats_available": 60,
+            "layovers": []
+        },
+        {
+            "id": 5,
+            "flight_number": "AI831",
+            "airline": "Air India",
+            "from": "Chennai",
+            "to": "Kolkata",
+            "price": 6000,
+            "seats_available": 30,
+            "layovers": []
+        },
+        {
+            "id": 6,
+            "flight_number": "6E720",
+            "airline": "IndiGo",
+            "from": "Hyderabad",
+            "to": "Jaipur",
+            "price": 5500,
+            "seats_available": 70,
+            "layovers": []
+        },
+        {
+            "id": 7,
+            "flight_number": "SG741",
+            "airline": "SpiceJet",
+            "from": "Mumbai",
+            "to": "Lucknow",
+            "price": 7000,
+            "seats_available": 50,
+            "layovers": [
+                {
+                    "city": "Bhopal"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "flight_number": "UK710",
+            "airline": "Vistara",
+            "from": "Kolkata",
+            "to": "Pune",
+            "price": 8000,
+            "seats_available": 20,
+            "layovers": []
+        },
+        {
+            "id": 9,
+            "flight_number": "AI621",
+            "airline": "Air India",
+            "from": "Jaipur",
+            "to": "Bangalore",
+            "price": 6500,
+            "seats_available": 40,
+            "layovers": [
+                {
+                    "city": "Ahmedabad"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "flight_number": "6E909",
+            "airline": "IndiGo",
+            "from": "Chennai",
+            "to": "Goa",
+            "price": 5500,
+            "seats_available": 60,
+            "layovers": []
+        },
+        {
+            "id": 11,
+            "flight_number": "UK230",
+            "airline": "Vistara",
+            "from": "Hyderabad",
+            "to": "Ahmedabad",
+            "price": 6000,
+            "seats_available": 50,
+            "layovers": []
+        },
+        {
+            "id": 12,
+            "flight_number": "AI222",
+            "airline": "Air India",
+            "from": "Mumbai",
+            "to": "Chennai",
+            "price": 4500,
+            "seats_available": 80,
+            "layovers": []
+        },
+        {
+            "id": 13,
+            "flight_number": "6E300",
+            "airline": "IndiGo",
+            "from": "Delhi",
+            "to": "Goa",
+            "price": 5500,
+            "seats_available": 60,
+            "layovers": [
+                {
+                    "city": "Mumbai"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "flight_number": "UK431",
+            "airline": "Vistara",
+            "from": "Kolkata",
+            "to": "Jaipur",
+            "price": 7000,
+            "seats_available": 30,
+            "layovers": []
+        },
+        {
+            "id": 15,
+            "flight_number": "AI509",
+            "airline": "Air India",
+            "from": "Delhi",
+            "to": "Kolkata",
+            "price": 6000,
+            "seats_available": 70,
+            "layovers": []
+        },
+        {
+            "id": 16,
+            "flight_number": "6E145",
+            "airline": "IndiGo",
+            "from": "Bangalore",
+            "to": "Chennai",
+            "price": 4000,
+            "seats_available": 90,
+            "layovers": []
+        },
+        {
+            "id": 17,
+            "flight_number": "SG747",
+            "airline": "SpiceJet",
+            "from": "Delhi",
+            "to": "Hyderabad",
+            "price": 5500,
+            "seats_available": 40,
+            "layovers": []
+        },
+        {
+            "id": 18,
+            "flight_number": "UK657",
+            "airline": "Vistara",
+            "from": "Mumbai",
+            "to": "Kolkata",
+            "price": 8000,
+            "seats_available": 20,
+            "layovers": [
+                {
+                    "city": "Delhi"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "flight_number": "AI643",
+            "airline": "Air India",
+            "from": "Hyderabad",
+            "to": "Chennai",
+            "price": 4500,
+            "seats_available": 60,
+            "layovers": []
+        },
+        {
+            "id": 20,
+            "flight_number": "6E203",
+            "airline": "IndiGo",
+            "from": "Delhi",
+            "to": "Mumbai",
+            "price": 5000,
+            "seats_available": 80,
+            "layovers": []
+        },
+        {
+            "id": 21,
+            "flight_number": "AI102",
+            "airline": "Air India",
+            "from": "Mumbai",
+            "to": "Bangalore",
+            "price": 5500,
+            "seats_available": 70,
+            "layovers": []
+        },
+        {
+            "id": 22,
+            "flight_number": "6E225",
+            "airline": "IndiGo",
+            "from": "Delhi",
+            "to": "Srinagar",
+            "price": 4000,
+            "seats_available": 60,
+            "layovers": []
+        },
+        {
+            "id": 23,
+            "flight_number": "SG463",
+            "airline": "SpiceJet",
+            "from": "Kolkata",
+            "to": "Guwahati",
+            "price": 4500,
+            "seats_available": 50,
+            "layovers": []
+        },
+        {
+            "id": 24,
+            "flight_number": "AI512",
+            "airline": "Air India",
+            "from": "Chennai",
+            "to": "Mumbai",
+            "price": 5500,
+            "seats_available": 80,
+            "layovers": []
+        },
+        {
+            "id": 25,
+            "flight_number": "6E721",
+            "airline": "IndiGo",
+            "from": "Mumbai",
+            "to": "Jaipur",
+            "price": 6000,
+            "seats_available": 30,
+            "layovers": []
+        },
+        {
+            "id": 26,
+            "flight_number": "UK743",
+            "airline": "Vistara",
+            "from": "Delhi",
+            "to": "Kochi",
+            "price": 7500,
+            "seats_available": 40,
+            "layovers": []
+        },
+        {
+            "id": 27,
+            "flight_number": "6E526",
+            "airline": "IndiGo",
+            "from": "Bangalore",
+            "to": "Hyderabad",
+            "price": 5000,
+            "seats_available": 90,
+            "layovers": []
+        },
+        {
+            "id": 28,
+            "flight_number": "AI786",
+            "airline": "Air India",
+            "from": "Delhi",
+            "to": "Mumbai",
+            "price": 6000,
+            "seats_available": 70,
+            "layovers": []
+        },
+        {
+            "id": 29,
+            "flight_number": "SG642",
+            "airline": "SpiceJet",
+            "from": "Mumbai",
+            "to": "Goa",
+            "price": 5000,
+            "seats_available": 80,
+            "layovers": []
+        },
+        {
+            "id": 30,
+            "flight_number": "UK906",
+            "airline": "Vistara",
+            "from": "Delhi",
+            "to": "Lucknow",
+            "price": 4500,
+            "seats_available": 60,
+            "layovers": []
+        }
     ]
 }
