@@ -618,5 +618,13 @@
             "seats_available": 60,
             "layovers": []
         }
-    ]
+    ],
+    "user":[
+    {
+    "id":1,
+    "name":"Saurabh Maske",
+    "email":"saurabh@travelist.com",
+    "password":"Unicorn"
+    }
+]
 }
