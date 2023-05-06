@@ -228,7 +228,7 @@
             "description": "Located centrally in New Delhi, The Park New Delhi offers luxury 4-star accommodation in trendy Connaught Place. The room decor are a fusion of traditional and contemporary design.",
             "category": "Hotel",
             "image": "https://imgcy.trivago.com/if_iw_lte_ih,c_scale,w_236/if_else,c_scale,h_160/e_improve,q_auto:low/d_dummy.jpeg,f_auto,q_auto//partnerimages/12/31/1231742122.jpeg",
-            "rating": 7.4
+            "rating": 3.4
         },
         {
             "id": "24",
@@ -238,7 +238,7 @@
             "description": "Make use of convenient amenities, which include complimentary wireless Internet access and concierge services.",
             "category": "Hotel",
             "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/21/62/2162610_v2.jpeg",
-            "rating": 7.8
+            "rating": 4.8
         },
         {
             "id": "25",
@@ -305,6 +305,7 @@
         {
             "id": 1,
             "flight_number": "AI101",
+            "image":"https://1000logos.net/wp-content/uploads/2022/04/Air-India-Logo-1971.png",
             "airline": "Air India",
             "from": "Delhi",
             "to": "Mumbai",
@@ -315,6 +316,7 @@
         {
             "id": 2,
             "flight_number": "6E502",
+            "image":"https://tse3.mm.bing.net/th?id=OIP.Cvbxy2hwVfOiYvXD3gWV_AHaEK&pid=Api&P=0",
             "airline": "IndiGo",
             "from": "Bangalore",
             "to": "Hyderabad",
@@ -325,6 +327,7 @@
         {
             "id": 3,
             "flight_number": "SG298",
+            "image":"https://tse1.mm.bing.net/th?id=OIP.G1FBiJ-ycDK3PZDWwebVmQHaC_&pid=Api&P=0&w=300&h=300",
             "airline": "SpiceJet",
             "from": "Delhi",
             "to": "Chennai",
@@ -335,6 +338,7 @@
         {
             "id": 4,
             "flight_number": "UK859",
+            "image":"https://www.airvistara.com/content/dam/airvistara/global/english/home-page/social-media-preview/Vistara-Logo.jpg",
             "airline": "Vistara",
             "from": "Mumbai",
             "to": "Ahmedabad",
@@ -345,6 +349,7 @@
         {
             "id": 5,
             "flight_number": "AI831",
+            "image":"https://1000logos.net/wp-content/uploads/2022/04/Air-India-Logo-1971.png",
             "airline": "Air India",
             "from": "Chennai",
             "to": "Kolkata",
@@ -355,6 +360,7 @@
         {
             "id": 6,
             "flight_number": "6E720",
+            "image":"https://tse3.mm.bing.net/th?id=OIP.Cvbxy2hwVfOiYvXD3gWV_AHaEK&pid=Api&P=0",
             "airline": "IndiGo",
             "from": "Hyderabad",
             "to": "Jaipur",
@@ -365,6 +371,7 @@
         {
             "id": 7,
             "flight_number": "SG741",
+            "image":"https://tse1.mm.bing.net/th?id=OIP.G1FBiJ-ycDK3PZDWwebVmQHaC_&pid=Api&P=0&w=300&h=300",
             "airline": "SpiceJet",
             "from": "Mumbai",
             "to": "Lucknow",
@@ -379,6 +386,7 @@
         {
             "id": 8,
             "flight_number": "UK710",
+            "image":"https://www.airvistara.com/content/dam/airvistara/global/english/home-page/social-media-preview/Vistara-Logo.jpg",
             "airline": "Vistara",
             "from": "Kolkata",
             "to": "Pune",
@@ -389,6 +397,7 @@
         {
             "id": 9,
             "flight_number": "AI621",
+            "image":"https://1000logos.net/wp-content/uploads/2022/04/Air-India-Logo-1971.png",
             "airline": "Air India",
             "from": "Jaipur",
             "to": "Bangalore",
@@ -403,6 +412,7 @@
         {
             "id": 10,
             "flight_number": "6E909",
+            "image":"https://tse3.mm.bing.net/th?id=OIP.Cvbxy2hwVfOiYvXD3gWV_AHaEK&pid=Api&P=0",
             "airline": "IndiGo",
             "from": "Chennai",
             "to": "Goa",
@@ -413,6 +423,7 @@
         {
             "id": 11,
             "flight_number": "UK230",
+            "image":"https://www.airvistara.com/content/dam/airvistara/global/english/home-page/social-media-preview/Vistara-Logo.jpg",
             "airline": "Vistara",
             "from": "Hyderabad",
             "to": "Ahmedabad",
@@ -423,6 +434,7 @@
         {
             "id": 12,
             "flight_number": "AI222",
+            "image":"https://1000logos.net/wp-content/uploads/2022/04/Air-India-Logo-1971.png",
             "airline": "Air India",
             "from": "Mumbai",
             "to": "Chennai",
@@ -433,6 +445,7 @@
         {
             "id": 13,
             "flight_number": "6E300",
+            "image":"https://tse3.mm.bing.net/th?id=OIP.Cvbxy2hwVfOiYvXD3gWV_AHaEK&pid=Api&P=0",
             "airline": "IndiGo",
             "from": "Delhi",
             "to": "Goa",
@@ -447,6 +460,7 @@
         {
             "id": 14,
             "flight_number": "UK431",
+            "image":"https://www.airvistara.com/content/dam/airvistara/global/english/home-page/social-media-preview/Vistara-Logo.jpg",
             "airline": "Vistara",
             "from": "Kolkata",
             "to": "Jaipur",
@@ -457,6 +471,7 @@
         {
             "id": 15,
             "flight_number": "AI509",
+            "image":"https://1000logos.net/wp-content/uploads/2022/04/Air-India-Logo-1971.png",
             "airline": "Air India",
             "from": "Delhi",
             "to": "Kolkata",
@@ -467,6 +482,7 @@
         {
             "id": 16,
             "flight_number": "6E145",
+            "image":"https://tse3.mm.bing.net/th?id=OIP.Cvbxy2hwVfOiYvXD3gWV_AHaEK&pid=Api&P=0",
             "airline": "IndiGo",
             "from": "Bangalore",
             "to": "Chennai",
@@ -477,6 +493,7 @@
         {
             "id": 17,
             "flight_number": "SG747",
+            "image":"https://tse1.mm.bing.net/th?id=OIP.G1FBiJ-ycDK3PZDWwebVmQHaC_&pid=Api&P=0&w=300&h=300",
             "airline": "SpiceJet",
             "from": "Delhi",
             "to": "Hyderabad",
@@ -487,6 +504,7 @@
         {
             "id": 18,
             "flight_number": "UK657",
+            "image":"https://www.airvistara.com/content/dam/airvistara/global/english/home-page/social-media-preview/Vistara-Logo.jpg",
             "airline": "Vistara",
             "from": "Mumbai",
             "to": "Kolkata",
@@ -501,6 +519,7 @@
         {
             "id": 19,
             "flight_number": "AI643",
+            "image":"https://1000logos.net/wp-content/uploads/2022/04/Air-India-Logo-1971.png",
             "airline": "Air India",
             "from": "Hyderabad",
             "to": "Chennai",
@@ -511,6 +530,7 @@
         {
             "id": 20,
             "flight_number": "6E203",
+            "image":"https://tse3.mm.bing.net/th?id=OIP.Cvbxy2hwVfOiYvXD3gWV_AHaEK&pid=Api&P=0",
             "airline": "IndiGo",
             "from": "Delhi",
             "to": "Mumbai",
@@ -521,6 +541,7 @@
         {
             "id": 21,
             "flight_number": "AI102",
+            "image":"https://1000logos.net/wp-content/uploads/2022/04/Air-India-Logo-1971.png",
             "airline": "Air India",
             "from": "Mumbai",
             "to": "Bangalore",
@@ -531,6 +552,7 @@
         {
             "id": 22,
             "flight_number": "6E225",
+            "image":"https://tse3.mm.bing.net/th?id=OIP.Cvbxy2hwVfOiYvXD3gWV_AHaEK&pid=Api&P=0",
             "airline": "IndiGo",
             "from": "Delhi",
             "to": "Srinagar",
@@ -541,6 +563,7 @@
         {
             "id": 23,
             "flight_number": "SG463",
+            "image":"https://tse1.mm.bing.net/th?id=OIP.G1FBiJ-ycDK3PZDWwebVmQHaC_&pid=Api&P=0&w=300&h=300",
             "airline": "SpiceJet",
             "from": "Kolkata",
             "to": "Guwahati",
@@ -551,6 +574,7 @@
         {
             "id": 24,
             "flight_number": "AI512",
+            "image":"https://1000logos.net/wp-content/uploads/2022/04/Air-India-Logo-1971.png",
             "airline": "Air India",
             "from": "Chennai",
             "to": "Mumbai",
@@ -561,6 +585,7 @@
         {
             "id": 25,
             "flight_number": "6E721",
+            "image":"https://tse3.mm.bing.net/th?id=OIP.Cvbxy2hwVfOiYvXD3gWV_AHaEK&pid=Api&P=0",
             "airline": "IndiGo",
             "from": "Mumbai",
             "to": "Jaipur",
@@ -571,6 +596,7 @@
         {
             "id": 26,
             "flight_number": "UK743",
+            "image":"https://www.airvistara.com/content/dam/airvistara/global/english/home-page/social-media-preview/Vistara-Logo.jpg",
             "airline": "Vistara",
             "from": "Delhi",
             "to": "Kochi",
@@ -581,6 +607,7 @@
         {
             "id": 27,
             "flight_number": "6E526",
+            "image":"https://tse3.mm.bing.net/th?id=OIP.Cvbxy2hwVfOiYvXD3gWV_AHaEK&pid=Api&P=0",
             "airline": "IndiGo",
             "from": "Bangalore",
             "to": "Hyderabad",
@@ -591,6 +618,7 @@
         {
             "id": 28,
             "flight_number": "AI786",
+            "image":"https://1000logos.net/wp-content/uploads/2022/04/Air-India-Logo-1971.png",
             "airline": "Air India",
             "from": "Delhi",
             "to": "Mumbai",
@@ -601,6 +629,7 @@
         {
             "id": 29,
             "flight_number": "SG642",
+            "image":"https://tse1.mm.bing.net/th?id=OIP.G1FBiJ-ycDK3PZDWwebVmQHaC_&pid=Api&P=0&w=300&h=300",
             "airline": "SpiceJet",
             "from": "Mumbai",
             "to": "Goa",
@@ -611,6 +640,7 @@
         {
             "id": 30,
             "flight_number": "UK906",
+            "image":"https://www.airvistara.com/content/dam/airvistara/global/english/home-page/social-media-preview/Vistara-Logo.jpg",
             "airline": "Vistara",
             "from": "Delhi",
             "to": "Lucknow",
