@@ -777,11 +777,41 @@
     ],
     "users":[
     {
-    "id":1,
-    "name":"Saurabh Maske",
-    "email":"saurabh@travelist.com",
-    "password":"Unicorn"
-    }
+    "id": 1,
+    "name": "Rupesh Tiwari",
+    "gmail": "rupesh@gmail.com",
+    "password": "rupesh340"
+  },
+  {
+    "id": 2,
+    "name": "Preetham",
+    "gmail": "preetham@gmail.com",
+    "password": "ilovecoding"
+  },
+  {
+    "id": 3,
+    "name": "Adil Raza",
+    "gmail": "adil.raza@gmail.com",
+    "password": "adil123"
+},
+  {
+    "id": 4,
+    "name": "Saurabh Maske",
+    "gmail": "saurabh@travelist.com",
+    "password": "Unicorn"
+  },
+  {
+    "id": 5,
+    "name": "Alisha",
+    "gmail": "alisha@gmail.com",
+    "password": "khanalisha"
+  },
+  {
+    "id": 6,
+    "name": "Test User",
+    "gmail": "testuser@gmail.com",
+    "password": "testpassword"
+}
 ],
   "flights":[
   {
