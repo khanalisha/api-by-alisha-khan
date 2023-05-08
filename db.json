@@ -248,7 +248,7 @@
             "description": "Treebo Trend Saga Comforts is an amazing choice for a comfortable stay in case you are visiting Bengaluru for work or leisure. Located in Rajaji Nagar area, the hotel offers 15 impressive rooms with great amenities and promises a pleasant stay to guests here ",
             "category": "Hotel",
             "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/50/10509252_v1.jpeg",
-            "rating": 5.4
+            "rating": 3.5
         },
         {
             "id": "26",
@@ -299,7 +299,133 @@
             "category": "Vilas",
             "image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/25/29/2529777_v1.jpeg",
             "rating": 5
-        }
+        },
+          {
+  "id": "31",
+  "name": "The Tamara Coorg",
+  "location": "Coorg",
+  "price": 15000,
+  "description": "Nestled in the heart of coffee country, The Tamara Coorg is a luxury resort offering breathtaking views of the surrounding hills and valleys, along with world-class amenities and impeccable service.",
+  "category": "Resort",
+  "image": "https://www.realestate.com.au/blog/images/2000x1500-fit,progressive/2019/04/15163225/fijian-bure-with-pool.jpg",
+  "rating": 3.8
+},
+  {
+    "id": "32",
+    "name": "The Oberoi Amarvilas",
+    "location": "Agra", "price": 50000,
+    "description": "The Oberoi Amarvilas is a luxurious hotel located just 600 meters from the iconic Taj Mahal. With its elegant Mughal architecture and world-class amenities, it offers an unforgettable experience to its guests.",
+    "category": "Homestay",
+    "image": "https://foreverdc.com/wp-content/uploads/2019/09/dubai-villa.jpg",
+    "rating": 4.9
+  }, {
+    "id": "33",
+    "name": "Taj Exotica Resort & Spa",
+    "location": "Goa",
+    "price": 30000,
+    "description": "Set amidst 56 acres of lush gardens, the Taj Exotica Resort & Spa is a tranquil retreat offering stunning views of the Arabian Sea. Its luxurious villas and world-class amenities make it the perfect place to unwind and rejuvenate.",
+    "category": "Resort",
+    "image": "https://www.hotelierindia.com/public/images/2020/02/22/JW-Marriott-Muscat-Exterior-Entrance.jpg",
+    "rating": 4.7
+  }, {
+    "id":"34",
+    "name": "The Leela Palace Udaipur",
+    "location": "Udaipur", "price": 40000,
+    "description": "The Leela Palace Udaipur is a luxurious hotel located on the banks of Lake Pichola, offering breathtaking views of the surrounding hills and the City Palace. Its opulent rooms and world-class amenities make it the perfect place to experience the grandeur of Udaipur.",
+    "category": "Homestay",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.VfJsdi5UARinPHMDiSllgAHaD3&pid=Api&P=0&w=300&h=300",
+    "rating": 4.8
+  },
+     {
+    "id": "35",
+    "name": "Wildflower Hall, Shimla",
+    "location": "Shimla",
+    "price": 35000,
+    "description": "Perched at an altitude of 8,250 feet, the Wildflower Hall is a luxury resort offering panoramic views of the Himalayas. With its colonial architecture, world-class amenities, and spa treatments, it provides an unforgettable experience to its guests.",
+    "category": "Homestay",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.V1vxCjGbOzVK7oPnZNCaXQHaEK&pid=Api&P=0&w=300&h=300",
+    "rating": 1.2
+  },
+  {
+    "id": "36",
+    "name": "Amber Trail, Jaipur, ama Stays & Trails",
+    "location": "Jaipur",
+    "price": 18000,
+    "description": "Unwind in the luxurious ambiance of this stunning 8-suite villa with a private pool, spa, and a bar serving refreshing drinks.",
+    "category": "Vilas",
+    "image": "https://www.creativehomeidea.com/wp-content/uploads/2019/03/bellezea_luxury_villas_in_sarjapur-1-752x440.jpg",
+    "rating": 2.1
+  },
+  {
+    "id": "37",
+    "name": "Valley View, Mahabaleshwar, ama Stays & Trails",
+    "location": "Mahabaleshwar",
+    "price": 21000,
+    "description": "Experience the serene beauty of Mahabaleshwar from this luxurious villa with a private pool, lush gardens, and a gazebo perfect for relaxing with loved ones.",
+    "category": "Vilas",
+    "image": "https://i.pinimg.com/originals/78/24/94/7824943caa2c4d079296277a7aa2dce5.jpg",
+    "rating": 2.3
+  },
+  {
+    "id": "38",
+    "name": "Vineyard Villa, Nashik, ama Stays & Trails",
+    "location": "Nashik",
+    "price": 17000,
+    "description": "Escape to the tranquil surroundings of this 3-bedroom villa with stunning vineyard views, a private pool, and a gazebo perfect for sipping on wine.",
+    "category": "Vilas",
+    "image": "https://i.pinimg.com/originals/07/ba/d2/07bad229e126af4138b070a6475be370.jpg",
+    "rating": 1.2
+  },
+  {
+    "id": "39",
+    "name": "Mango Tree, Coorg, ama Stays & Trails",
+    "location": "Coorg",
+    "price": 22000,
+    "description": "Enjoy the breathtaking views of the Coorg hills from this luxurious villa with a private pool, beautiful gardens, and a balcony perfect for sipping on hot coffee.",
+    "category": "Vilas",
+    "image": "https://media.cntraveller.in/wp-content/uploads/2019/10/Hamsa-Villas.jpg",
+    "rating": 2.6
+  },
+    {
+    "id": "40",
+    "name": "Sunrise Inn",
+    "location": "Mumbai",
+    "price": 1200,
+    "description": "Located in the heart of Mumbai, Sunrise Inn offers budget accommodation with basic amenities.",
+    "category": "Homestay",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.1AP4EUSemVY8jJ9rN5yukQHaE8&pid=Api&P=0",
+    "rating": 3.5
+  },
+  {
+    "id": "41",
+    "name": "Hotel Royal Paradise",
+    "location": "Delhi",
+    "price": 1500,
+    "description": "A budget hotel in the heart of Delhi offering comfortable rooms with basic amenities.",
+    "category": "Homestay",
+    "image": "https://theasiapress.com/wp-content/uploads/2021/03/d1-1024x768.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": "42",
+    "name": "Hotel Shiva Palace",
+    "location": "Jaipur",
+    "price": 1100,
+    "description": "A budget hotel in the Pink City of Jaipur offering comfortable rooms with basic amenities.",
+    "category": "Resort",
+    "image": "https://images.trvl-media.com/hotels/20000000/19390000/19385000/19384906/a69c5f9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+    "rating": 1.0
+  },
+  {
+    "id": "43",
+    "name": "Hotel Le Garden",
+    "location": "Chennai",
+    "price": 1400,
+    "description": "A budget hotel in the heart of Chennai offering comfortable rooms with basic amenities.",
+    "category": "Vilas",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.iyW9ySvgMI_50clbsFZ2zQHaDt&pid=Api&P=0",
+    "rating": 2.4
+}
     ],
     "flight": [
         {
